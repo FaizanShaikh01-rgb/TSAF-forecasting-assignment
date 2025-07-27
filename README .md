@@ -73,8 +73,8 @@ To build forecasting models on historical stock price data using:
 
 ## 👨‍💻 Author
 
-- Name: [Your Name]
-- Bootcamp: AtomCamp – AI Engineering
-- GitHub: [your-github-username]
+- Name: Faizan Shaikh
+- Bootcamp: AtomCamp – AI & Datascience
+- GitHub: FaizanShaikh01-rgb
 
 ---
